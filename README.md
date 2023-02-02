@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by my-toys](https://github.com/my-toys/math-util/actions/workflows/ci-unit.yml.yml/badge.svg)](https://github.com/my-toys/math-util/actions/workflows/ci-unit.yml.yml)
+
 # Welcome to Math-Util Repository
 ### You will find in this repo the following stuff:
 
